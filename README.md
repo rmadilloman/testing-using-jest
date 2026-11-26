@@ -1,13 +1,13 @@
 # JEST test
 
 ## Description
-Sole JS and JEST simple code that validates sums and strings.
+Sole JS and JEST simple code that validates sums and strings. Includes comments to explain all procedures
 
 ## Technologies
 - JS
 - Jest
 - npm (node package manager)
-- 
+
 ## How to run
 1. Clone the repository:
    ```bash
